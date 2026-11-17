@@ -5,8 +5,8 @@ This involved rebuilding the sink plumbing and installing a bracket for a portab
 ![hoverover text](Plumbing.jpeg)
 
 The water is pumped up the light blue food grade hose up to the sink.
-Grey water goes down into the gray hose pipe into the wastewater tank on the right
-The red/green and yellow/green hoses are for ventilation and the outlet goes outside the vehicle
+Grey water goes down into the gray hose pipe into the wastewater tank on the right.
+The red/green and yellow/green hoses are for ventilation and the outlet goes outside the vehicle.
 
 ## Sink
 ![hoverover text](Sink.jpeg)
@@ -14,4 +14,13 @@ The red/green and yellow/green hoses are for ventilation and the outlet goes out
 The handpump sink and ventilation hose rising above sink level before descending outside the vechicle.
 
 ## Toilet Bracket
-![hoverover text](Bracket Installation Full.jpeg)
+![hoverover text](Toilet.jpeg)
+
+Toilet in bracket assembly.
+
+![hoverover text](BracketInstallationFull.jpeg)
+
+Toilet bracket is fixed to floor of van.
+
+![hoverover text](BracketInstallation.jpeg)
+
